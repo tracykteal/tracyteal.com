@@ -1,1 +1,1 @@
-Sitemap: https://tracykteal.github.io/tracyteal.com/sitemap.xml
+Sitemap: https://github.com/tracykteal/tracyteal.com/sitemap.xml
