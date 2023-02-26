@@ -13,7 +13,6 @@ about:
     - icon: github
       text: Github
       href: https://github.com
-
 ---
 
-About this blog
+Tracy Teal is the Open Source Program Director at Posit, PBC.
