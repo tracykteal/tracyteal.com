@@ -6,13 +6,13 @@ about:
   links:
     - icon: twitter
       text: Twitter
-      href: https://twitter.com
+      href: https://twitter.com/tracykteal
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
+      href: https://www.linkedin.com/in/tracy-teal-059136b
     - icon: github
       text: Github
-      href: https://github.com
+      href: https://github.com/tracykteal
 ---
 
 Tracy Teal is the Open Source Program Director at Posit, PBC.
