@@ -1,0 +1,13 @@
+{
+  "listingMap": {
+    "blog.qmd": [
+      "posts"
+    ],
+    "talks.qmd": [
+      "posts"
+    ],
+    "resources.qmd": [
+      "posts"
+    ]
+  }
+}

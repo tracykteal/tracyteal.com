@@ -1,0 +1,41 @@
+---
+title: "Publications"
+---
+
+Some publications, reports and articles I was a part of
+
+## Publications
+
+-   Bicycle principles
+
+-   10 simple rules
+
+-   Good enough practices
+
+-   Hampton paper
+
+-   Workflows for biologists
+
+-   Data Carpentry
+
+-   JOSS
+
+-   Short format workshops
+
+-   Full list:
+
+## Articles
+
+-   Jeff data backup
+
+-   Jeff other
+
+-   DataOne
+
+-   Berkeley
+
+## Reports
+
+-   OECD
+
+-   NIH

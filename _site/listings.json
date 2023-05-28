@@ -1,0 +1,20 @@
+[
+  {
+    "listing": "/blog.html",
+    "items": [
+      "/posts/first_post.html"
+    ]
+  },
+  {
+    "listing": "/talks.html",
+    "items": [
+      "/posts/first_post.html"
+    ]
+  },
+  {
+    "listing": "/resources.html",
+    "items": [
+      "/posts/first_post.html"
+    ]
+  }
+]

@@ -1,0 +1,11 @@
+---
+title: "Resources"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: grid
+  categories: true
+---
+
+Here are some resources
+

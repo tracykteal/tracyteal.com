@@ -1,0 +1,79 @@
+[
+  {
+    "objectID": "posts/first_post.html",
+    "href": "posts/first_post.html",
+    "title": "Checklists",
+    "section": "",
+    "text": "Photo by Glenn Carstens-Peters on Unsplash\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\nThis is a post"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "tracyteal.com",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Checklists\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\nPost description\n\n\n\n\n\n\nMay 27, 2023\n\n\nTracy Teal\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "talks.html",
+    "href": "talks.html",
+    "title": "Talks",
+    "section": "",
+    "text": "Here are some talks I’ve given\n\n\n\n\n\n\n\n\n  \n\n\n\n\nChecklists\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\nPost description\n\n\n\n\n\n\nMay 27, 2023\n\n\nTracy Teal\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Some publications, reports and articles I was a part of"
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "Here are some resources\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nChecklists\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\nPost description\n\n\n\nTracy Teal\n\n\nMay 27, 2023\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "resources/lightning-talks.html",
+    "href": "resources/lightning-talks.html",
+    "title": "Lightning Talks",
+    "section": "",
+    "text": "This is a post"
+  },
+  {
+    "objectID": "publications.html#publications",
+    "href": "publications.html#publications",
+    "title": "Publications",
+    "section": "Publications",
+    "text": "Publications\n\nBicycle principles\n10 simple rules\nGood enough practices\nHampton paper\nWorkflows for biologists\nData Carpentry\nJOSS\nShort format workshops\nFull list:"
+  },
+  {
+    "objectID": "publications.html#articles",
+    "href": "publications.html#articles",
+    "title": "Publications",
+    "section": "Articles",
+    "text": "Articles\n\nJeff data backup\nJeff other\nDataOne\nBerkeley"
+  },
+  {
+    "objectID": "publications.html#reports",
+    "href": "publications.html#reports",
+    "title": "Publications",
+    "section": "Reports",
+    "text": "Reports\n\nOECD\nNIH"
+  }
+]

@@ -1,0 +1,10 @@
+---
+title: "Talks"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+---
+
+Here are some talks I've given

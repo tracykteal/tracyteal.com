@@ -1,0 +1,38 @@
+project:
+  type: website
+
+website:
+  title: "Tracy Teal"
+  site-url: "https://tracyteal.com/"
+  twitter-card:
+    creator: "@tracykteal"
+    card-style: summary_large_image
+  
+  navbar:
+    right:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: Bio
+      - href: talks.qmd
+        text: Talks
+      - href: publications.qmd
+        text: Publications
+      - href: resources.qmd
+        text: Resources
+      - href: blog.qmd
+        text: Blog
+      - icon: github
+        href: https://github.com/tracykteal/tracyteal-website
+      - icon: twitter
+        href: https://twitter.com/tracykteal
+
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    toc: true
+
+editor: visual
+
+

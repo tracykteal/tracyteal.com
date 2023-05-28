@@ -1,0 +1,26 @@
+{
+  "posts/first_post.qmd": {
+    "first_post.html": "ff473b5a"
+  },
+  "index.qmd": {
+    "index.html": "51e26f10"
+  },
+  "about.qmd": {
+    "about.html": "249c1e2e"
+  },
+  "blog.qmd": {
+    "blog.html": "36ff3419"
+  },
+  "talks.qmd": {
+    "talks.html": "9513f85f"
+  },
+  "publications.qmd": {
+    "publications.html": "55bde838"
+  },
+  "resources.qmd": {
+    "resources.html": "0506d883"
+  },
+  "resources/lightning-talks.qmd": {
+    "lightning-talks.html": "a8ccaacf"
+  }
+}
