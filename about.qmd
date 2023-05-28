@@ -1,9 +1,23 @@
 ---
-title: "About"
+title: ""
+format:
+  html:
+    toc: false
 ---
 
-About this site
+::: {layout-ncol=2}
 
-```{r}
-1 + 1
-```
+Tracy Teal is the Open Source Program Director at Posit. Previously, she was a co-founder of Data Carpentry and the Executive Director of The Carpentries. She developed open source bioinformatics software as an assistant professor at Michigan State University and holds a PhD in computation and neural systems from California Institute of Technology. Tracy is involved in the open source software and reproducible research communities, including serving on advisory committees for NumFOCUS, pyOpenSci, EarthLab and carbonplan, and has been working with open source communities, developing curriculum, and teaching people how to work with data and code as a developer, instructor and project leader throughout her career.
+
+
+![](images/teal_photo2_sm.jpg){fig-alt="Photo of Tracy Teal sitting in a chair near a window" fig-align="right" width="280"}
+
+:::
+
+
+
+
+
+### Speaker Bio
+
+Tracy Teal is the Open Source Program Director at Posit. Previously, she was a co-founder of Data Carpentry and the Executive Director of The Carpentries. She developed open source bioinformatics software as an assistant professor at Michigan State University and holds a PhD in computation and neural systems from California Institute of Technology. Tracy is involved in the open source software and reproducible research communities, including serving on advisory committees for NumFOCUS, pyOpenSci, EarthLab and carbonplan, and has been working with open source communities, developing curriculum, and teaching people how to work with data and code as a developer, instructor and project leader throughout her career.
