@@ -22,5 +22,14 @@
   },
   "resources/lightning-talks.qmd": {
     "lightning-talks.html": "a8ccaacf"
+  },
+  "resources/intro-to-intros.qmd": {
+    "intro-to-intros.html": "a5df5055"
+  },
+  "resources/teaching-materials.qmd": {
+    "teaching-materials.html": "04d72dd9"
+  },
+  "resources/devrel-handbook.qmd": {
+    "devrel-handbook.html": "27148cf5"
   }
 }

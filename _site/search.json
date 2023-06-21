@@ -7,6 +7,34 @@
     "text": "Photo by Glenn Carstens-Peters on Unsplash\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\nThis is a post"
   },
   {
+    "objectID": "talks.html",
+    "href": "talks.html",
+    "title": "Talks",
+    "section": "",
+    "text": "Here are some talks I’ve given\n\n\n\n\n\n\n\n\n  \n\n\n\n\nChecklists\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\nPost description\n\n\n\n\n\n\nMay 27, 2023\n\n\nTracy Teal\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "resources/intro-to-intros.html",
+    "href": "resources/intro-to-intros.html",
+    "title": "Introduction to Introductions",
+    "section": "",
+    "text": "Photo by charlesdeluvio on Unsplash\nThink back to courses or workshops you really liked or didn’t like.\nHow did those courses start on the first day? Were you confident in the instructors ability to teach the course? Did you feel like the instructor was enthusiastic about the course and invested in the students outcomes? Was it clear what you were going to be learning? Were you excited to get the chance to be learning about those things? Or did you leave that first day thinking the instructor was uninterested, that you weren’t the students they wanted to be teaching or you had no idea what the course was supposed to be about?\nI imagine that your impression on that first day matched that of the rest of the workshop or the course. We don’t usually think explicitly about introductions, but they set the tone for the workshop and the path for learner outcomes. So, what we obviously need is an introduction to introductions!\nAn introduction to introductions"
+  },
+  {
+    "objectID": "resources/teaching-materials.html",
+    "href": "resources/teaching-materials.html",
+    "title": "Teaching materials",
+    "section": "",
+    "text": "Photo by Alexander Grey on Unsplash\nSome teaching materials I know and love on a few different topics.\n\nWorking with data and code\nI highly recommend all of The Carpentries teaching materials for getting started to work with data and code in research. These are a few of my favorites:\n\nData Carpentry Data Organization in Spreadsheets\nData Carpentry Data Cleaning with OpenRefine\nData Carpentry Data Analysis and Visualization with R\nCarpentries Incubator R and the tidyverse for working with data\n\n\n\nMicrobial metagenomics\nIf you’re interested in learning about microbial metagenomics, these are some of our materials from STAMPS and EDAMAME.\n\nMBL Strategies and Techniques for the Analyizing Microbial Population Structures (STAMPS) 2022\nExplorations in Data Analysis for Metagenomic Advances in Microbial Ecology (EDAMAME)"
+  },
+  {
+    "objectID": "resources/lightning-talks.html",
+    "href": "resources/lightning-talks.html",
+    "title": "Lightning Talks",
+    "section": "",
+    "text": "Photo by Brandon Morgan on Unsplash\nI love lightning talks! They’re one of the best ways to share about your project and get people interested quickly. They’re also tough talks to give because you have to really plan out what you’re going to talk about, since you don’t have much time.\nThese are notes I put together for some SciPy and rstudio::conf() meetings, where I was moderating lightning talks sessions.\nSome handy guidelines on giving a lightning talk"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "tracyteal.com",
@@ -14,11 +42,46 @@
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
   },
   {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Publications, reports and articles I’ve been involved with on data science training, good data science and collaboration practices, and career pathways."
+  },
+  {
+    "objectID": "publications.html#data-science-practices-and-collaboration",
+    "href": "publications.html#data-science-practices-and-collaboration",
+    "title": "Publications",
+    "section": "Data science practices and collaboration",
+    "text": "Data science practices and collaboration\n\n\n\nTen simple rules to cultivate transdisciplinary collaboration in data science\nF Sahneh et al, 2021\n\n\nGood enough practices in scientific computing\nWilson et al, 2017\n\n\nComputing workflows for biologists: a roadmap\nA Shade & TK Teal, 2015\n\n\nJournal of Open Source Software (JOSS): design and first-year review,\nAM Smith et al, 2018\n\n\n11 ways to avert a data-storage disaster\nby Jeffrey Perkel, 1 April 2019 Nature\n\n\nWhen it comes to reproducible science, Git is code for success\nby Jeffrey Perkel, 11 June 2018 Nature\n\n\nSix tips for better spreadsheets\nby Jeffrey Perkel, 2 August 2022 Nature (paywall)"
+  },
+  {
+    "objectID": "publications.html#data-science-training",
+    "href": "publications.html#data-science-training",
+    "title": "Publications",
+    "section": "Data Science Training",
+    "text": "Data Science Training\n\n\n\nOptimizing Short-format Training: an International Consensus on Effective, Inclusive, and Career-spanning Professional Development in the Life Sciences and Beyond\nJJ Williams et al, 2023\n\n\nOECD Report: Building digital workforce capacity and skills for data-intensive science\nM Barker et al, 2020\n\n\nShort-format workshops build skills and confidence for researchers to work with data\nKL Jordan et al, 2018\n\n\nData carpentry: workshops to increase data literacy for researchers\nTeal et al, 2015\n\n\nSkills and knowledge for data-intensive environmental research\nSE Hampton et al, 2017\n\n\nData Science Drivers: A Report on the National Library of Medicine Workshop\nM Zaringhalam et al, 2018\n\n\nA vision for collaborative training infrastructure for bioinformatics\nJJ Williams & TK Teal, 2016\n\n\nStrategies for building computing skills to support microbiome analysis: a five-year perspective from the EDAMAME workshop\nA Shade et al, 2019"
+  },
+  {
+    "objectID": "publications.html#career-pathways",
+    "href": "publications.html#career-pathways",
+    "title": "Publications",
+    "section": "Career Pathways",
+    "text": "Career Pathways\n\n\n\ndata.org Pathways to Impact career journey interview\nby Perry Hewitt | 09 March 2023\n\n\nAn interview with UC Berkeley QB3 Professional in Residence Tracy Teal: harnessing community to support scientific research\nby Jonathan Liu | 01 March 2021\n\n\n\n\nTen simple rules to cultivate transdisciplinary collaboration in data science, F Sahneh et al, 2021\nGood enough practices in scientific computing, Wilson et al, 2017\nComputing workflows for biologists: a roadmap, A Shade & TK Teal, 2015\nJournal of Open Source Software (JOSS): design and first-year review, AM Smith et al, 2018\n11 ways to avert a data-storage disaster by Jeffrey Perkel, 1 April 2019 Nature\nWhen it comes to reproducible science, Git is code for success by Jeffrey Perkel, 11 June 2018 Nature\nSix tips for better spreadsheets by Jeffrey Perkel, 2 August 2022 Nature (paywall)\nOptimizing Short-format Training: an International Consensus on Effective, Inclusive, and Career-spanning Professional Development in the Life Sciences and Beyond, JJ Williams et al, 2023\nOECD Report: Building digital workforce capacity and skills for data-intensive science, M Barker et al, 2020\nShort-format workshops build skills and confidence for researchers to work with data, KL Jordan et al, 2018\nData carpentry: workshops to increase data literacy for researchers, Teal et al, 2015\nSkills and knowledge for data-intensive environmental research, SE Hampton et al, 2017\nData Science Drivers: A Report on the National Library of Medicine Workshop, M Zaringhalam et al, 2018\nA vision for collaborative training infrastructure for bioinformatics, JJ Williams & TK Teal, 2016\nStrategies for building computing skills to support microbiome analysis: a five-year perspective from the EDAMAME workshop, A Shade et al, 2019\ndata.org pathways to impact interview by Perry Hewitt | 09 March 2023. Pathways to Impact is a series of conversations with data for social impact leaders exploring their career journeys.\nAn interview with UC Berkeley QB3 Professional in Residence Tracy Teal: harnessing community to support scientific research by Jonathan Liu | 01 March 2021"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Tracy Teal",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Tracy Teal is the Open Source Program Director at Posit. Previously, she was a co-founder of Data Carpentry and the Executive Director of The Carpentries. She developed open source bioinformatics software as an assistant professor at Michigan State University and holds a PhD in computation and neural systems from California Institute of Technology. Tracy is involved in the open source software and reproducible research communities, including serving on advisory committees for NumFOCUS, pyOpenSci, EarthLab and carbonplan, and has been working with open source communities, developing curriculum, and teaching people how to work with data and code as a developer, instructor and project leader throughout her career.\n\n\n\n\n\n\n\n\n\n\n\nSpeaker Bio\nTracy Teal is the Open Source Program Director at Posit. Previously, she was a co-founder of Data Carpentry and the Executive Director of The Carpentries. She developed open source bioinformatics software as an assistant professor at Michigan State University and holds a PhD in computation and neural systems from California Institute of Technology. Tracy is involved in the open source software and reproducible research communities, including serving on advisory committees for NumFOCUS, pyOpenSci, EarthLab and carbonplan, and has been working with open source communities, developing curriculum, and teaching people how to work with data and code as a developer, instructor and project leader throughout her career."
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "Here are some resources\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to Introductions\n\n\nIntroductions\n\n\n\n\n\n\n\n\n\n\n\n\n\nTeaching materials\n\n\nSome teaching materials I know and love\n\n\n\n\n\n\n\n\n\n\n\n\n\nOpen Source Developer Relations Team Handbook\n\n\nteam handbook template\n\n\n\n\n\n\n\n\n\n\n\n\n\nLightning Talks\n\n\nSome things on lightning talks\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "blog.html",
@@ -28,52 +91,10 @@
     "text": "Checklists\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\nPost description\n\n\n\n\n\n\nMay 27, 2023\n\n\nTracy Teal\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "talks.html",
-    "href": "talks.html",
-    "title": "Talks",
+    "objectID": "resources/devrel-handbook.html",
+    "href": "resources/devrel-handbook.html",
+    "title": "Open Source Developer Relations Team Handbook",
     "section": "",
-    "text": "Here are some talks I’ve given\n\n\n\n\n\n\n\n\n  \n\n\n\n\nChecklists\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\nPost description\n\n\n\n\n\n\nMay 27, 2023\n\n\nTracy Teal\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
-    "section": "",
-    "text": "Some publications, reports and articles I was a part of"
-  },
-  {
-    "objectID": "resources.html",
-    "href": "resources.html",
-    "title": "Resources",
-    "section": "",
-    "text": "Here are some resources\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nChecklists\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\nPost description\n\n\n\nTracy Teal\n\n\nMay 27, 2023\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "resources/lightning-talks.html",
-    "href": "resources/lightning-talks.html",
-    "title": "Lightning Talks",
-    "section": "",
-    "text": "This is a post"
-  },
-  {
-    "objectID": "publications.html#publications",
-    "href": "publications.html#publications",
-    "title": "Publications",
-    "section": "Publications",
-    "text": "Publications\n\nBicycle principles\n10 simple rules\nGood enough practices\nHampton paper\nWorkflows for biologists\nData Carpentry\nJOSS\nShort format workshops\nFull list:"
-  },
-  {
-    "objectID": "publications.html#articles",
-    "href": "publications.html#articles",
-    "title": "Publications",
-    "section": "Articles",
-    "text": "Articles\n\nJeff data backup\nJeff other\nDataOne\nBerkeley"
-  },
-  {
-    "objectID": "publications.html#reports",
-    "href": "publications.html#reports",
-    "title": "Publications",
-    "section": "Reports",
-    "text": "Reports\n\nOECD\nNIH"
+    "text": "Photo by charlesdeluvio on Unsplash\nAn important part of the work in open source is in developer relations. While each role has its differences there are similarities in the things each dev rel team or individual need to think about. This Open Source Developer Relations Team Handbook template is meant to capture some of those ideas and provide a framework for teams to fill in for their own work and communities.\nIt's meant to be a set of guidelines and information that a team can use on how they work, that they can use as their own reference and to share with other stakeholders.\nThese handbooks are meant to be living documents, meant to evolve and change. Documentation is only useful if it's referenced and used, so you want to continue to adapt structure and content in a way that works for it to be most helpful to you.\nThese are some ideas and resources on how open source developer relations can work, and templates and guidelines that could be useful to people in similar roles.\n\nOpen Source Developer Relations Team Handbook\n\nGitHub repository\nPublished OS Dev Rel Team Handbook template"
   }
 ]

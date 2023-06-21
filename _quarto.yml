@@ -10,12 +10,8 @@ website:
   
   navbar:
     right:
-      - href: index.qmd
-        text: Home
       - href: about.qmd
         text: Bio
-      - href: talks.qmd
-        text: Talks
       - href: publications.qmd
         text: Publications
       - href: resources.qmd

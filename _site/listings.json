@@ -1,11 +1,5 @@
 [
   {
-    "listing": "/blog.html",
-    "items": [
-      "/posts/first_post.html"
-    ]
-  },
-  {
     "listing": "/talks.html",
     "items": [
       "/posts/first_post.html"
@@ -13,6 +7,15 @@
   },
   {
     "listing": "/resources.html",
+    "items": [
+      "/resources/intro-to-intros.html",
+      "/resources/teaching-materials.html",
+      "/resources/devrel-handbook.html",
+      "/resources/lightning-talks.html"
+    ]
+  },
+  {
+    "listing": "/blog.html",
     "items": [
       "/posts/first_post.html"
     ]
