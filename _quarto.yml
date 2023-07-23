@@ -7,6 +7,9 @@ website:
   twitter-card:
     creator: "@tracykteal"
     card-style: summary_large_image
+    
+execute:
+  freeze: auto
   
   navbar:
     right:
