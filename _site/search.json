@@ -28,6 +28,13 @@
     "text": "Photo by Alexander Grey on Unsplash\nSome teaching materials I know and love on a few different topics.\n\nWorking with data and code\nI highly recommend all of The Carpentries teaching materials for getting started to work with data and code in research. These are a few of my favorites:\n\nData Carpentry Data Organization in Spreadsheets\nData Carpentry Data Cleaning with OpenRefine\nData Carpentry Data Analysis and Visualization with R\nCarpentries Incubator R and the tidyverse for working with data\n\n\n\nMicrobial metagenomics\nIf you’re interested in learning about microbial metagenomics, these are some of our materials from STAMPS and EDAMAME.\n\nMBL Strategies and Techniques for the Analyizing Microbial Population Structures (STAMPS) 2022\nExplorations in Data Analysis for Metagenomic Advances in Microbial Ecology (EDAMAME)"
   },
   {
+    "objectID": "resources/devrel-handbook.html",
+    "href": "resources/devrel-handbook.html",
+    "title": "Open Source Developer Relations Team Handbook",
+    "section": "",
+    "text": "Photo by charlesdeluvio on Unsplash\nAn important part of the work in open source is in developer relations. While each role has its differences there are similarities in the things each dev rel team or individual need to think about. This Open Source Developer Relations Team Handbook template is meant to capture some of those ideas and provide a framework for teams to fill in for their own work and communities.\nIt's meant to be a set of guidelines and information that a team can use on how they work, that they can use as their own reference and to share with other stakeholders.\nThese handbooks are meant to be living documents, meant to evolve and change. Documentation is only useful if it's referenced and used, so you want to continue to adapt structure and content in a way that works for it to be most helpful to you.\nThese are some ideas and resources on how open source developer relations can work, and templates and guidelines that could be useful to people in similar roles.\n\nOpen Source Developer Relations Team Handbook\n\nGitHub repository\nPublished OS Dev Rel Team Handbook template"
+  },
+  {
     "objectID": "resources/lightning-talks.html",
     "href": "resources/lightning-talks.html",
     "title": "Lightning Talks",
@@ -89,12 +96,5 @@
     "title": "Blog",
     "section": "",
     "text": "Checklists\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\nPost description\n\n\n\n\n\n\nMay 27, 2023\n\n\nTracy Teal\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "resources/devrel-handbook.html",
-    "href": "resources/devrel-handbook.html",
-    "title": "Open Source Developer Relations Team Handbook",
-    "section": "",
-    "text": "Photo by charlesdeluvio on Unsplash\nAn important part of the work in open source is in developer relations. While each role has its differences there are similarities in the things each dev rel team or individual need to think about. This Open Source Developer Relations Team Handbook template is meant to capture some of those ideas and provide a framework for teams to fill in for their own work and communities.\nIt's meant to be a set of guidelines and information that a team can use on how they work, that they can use as their own reference and to share with other stakeholders.\nThese handbooks are meant to be living documents, meant to evolve and change. Documentation is only useful if it's referenced and used, so you want to continue to adapt structure and content in a way that works for it to be most helpful to you.\nThese are some ideas and resources on how open source developer relations can work, and templates and guidelines that could be useful to people in similar roles.\n\nOpen Source Developer Relations Team Handbook\n\nGitHub repository\nPublished OS Dev Rel Team Handbook template"
   }
 ]

@@ -1,63 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://roaring-lolly-74ec99.netlify.app/posts/first_post.html</loc>
-    <lastmod>2023-05-28T22:11:48.788Z</lastmod>
+    <loc>https://tracyteal.com/posts/first_post.html</loc>
+    <lastmod>2023-07-23T19:15:33.191Z</lastmod>
   </url>
   <url>
-    <loc>https://roaring-lolly-74ec99.netlify.app/talks.html</loc>
-    <lastmod>2023-05-28T22:11:49.290Z</lastmod>
+    <loc>https://tracyteal.com/talks.html</loc>
+    <lastmod>2023-07-23T19:15:33.699Z</lastmod>
   </url>
   <url>
-    <loc>https://roaring-lolly-74ec99.netlify.app/resources/intro-to-intros.html</loc>
-    <lastmod>2023-05-28T22:11:49.714Z</lastmod>
-  </url>
-  <url>
-    <loc>https://roaring-lolly-74ec99.netlify.app/resources/teaching-materials.html</loc>
-    <lastmod>2023-05-28T22:11:50.150Z</lastmod>
-  </url>
-  <url>
-    <loc>https://roaring-lolly-74ec99.netlify.app/resources/lightning-talks.html</loc>
-    <lastmod>2023-05-28T22:11:50.570Z</lastmod>
-  </url>
-  <url>
-    <loc>https://roaring-lolly-74ec99.netlify.app/index.html</loc>
-    <lastmod>2023-05-28T22:11:52.687Z</lastmod>
-  </url>
-  <url>
-    <loc>https://roaring-lolly-74ec99.netlify.app/publications.html</loc>
-    <lastmod>2023-05-28T22:11:53.768Z</lastmod>
-  </url>
-  <url>
-    <loc>https://roaring-lolly-74ec99.netlify.app/about.html</loc>
-    <lastmod>2023-05-28T22:11:54.603Z</lastmod>
-  </url>
-  <url>
-    <loc>https://roaring-lolly-74ec99.netlify.app/resources.html</loc>
-    <lastmod>2023-05-28T22:11:55.148Z</lastmod>
-  </url>
-  <url>
-    <loc>https://roaring-lolly-74ec99.netlify.app/blog.html</loc>
-    <lastmod>2023-05-28T22:11:55.611Z</lastmod>
-  </url>
-  <url>
-    <loc>https://tracyteal.com/resources/devrel-handbook.html</loc>
-    <lastmod>2023-06-21T03:18:26.231Z</lastmod>
-  </url>
-  <url>
-    <loc>https://tracyteal.com/resources/lightning-talks.html</loc>
-    <lastmod>2023-06-21T03:18:26.630Z</lastmod>
-  </url>
-  <url>
-    <loc>https://tracyteal.com/resources.html</loc>
-    <lastmod>2023-06-21T03:18:27.237Z</lastmod>
+    <loc>https://tracyteal.com/resources/intro-to-intros.html</loc>
+    <lastmod>2023-07-23T19:15:34.140Z</lastmod>
   </url>
   <url>
     <loc>https://tracyteal.com/resources/teaching-materials.html</loc>
-    <lastmod>2023-06-21T03:19:08.878Z</lastmod>
+    <lastmod>2023-07-23T19:15:34.555Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tracyteal.com/resources/devrel-handbook.html</loc>
+    <lastmod>2023-07-23T19:15:34.958Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tracyteal.com/resources/lightning-talks.html</loc>
+    <lastmod>2023-07-23T19:15:35.378Z</lastmod>
   </url>
   <url>
     <loc>https://tracyteal.com/index.html</loc>
-    <lastmod>2023-06-21T03:28:44.679Z</lastmod>
+    <lastmod>2023-07-23T19:15:37.262Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tracyteal.com/publications.html</loc>
+    <lastmod>2023-07-23T19:15:38.330Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tracyteal.com/about.html</loc>
+    <lastmod>2023-07-23T19:15:39.162Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tracyteal.com/resources.html</loc>
+    <lastmod>2023-07-23T19:15:39.664Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tracyteal.com/blog.html</loc>
+    <lastmod>2023-07-23T19:15:40.112Z</lastmod>
   </url>
 </urlset>
