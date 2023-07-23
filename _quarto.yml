@@ -1,16 +1,15 @@
 project:
   type: website
 
+execute:
+  freeze: auto
+
 website:
   title: "Tracy Teal"
   site-url: "https://tracyteal.com/"
   twitter-card:
     creator: "@tracykteal"
     card-style: summary_large_image
-    
-execute:
-  freeze: auto
-  
   navbar:
     right:
       - href: about.qmd
