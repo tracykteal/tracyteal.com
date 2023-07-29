@@ -1,11 +1,37 @@
 ---
-title: "tracyteal.com"
+title: "Tracy K. Teal"
+image: images/teal_photo2_website.png
+about:
+  template: solana
+  image-shape: round
+  links:
+  - icon: mastodon
+    text: Mastodon
+    href: https://mastodon.social/@tracykteal
+  - icon: github
+    text: Github
+    href: https://github.com
+  - icon: linkedin
+    text: LinkedIn
+    href: https://linkedin.com
+
 ---
 
-This is a Quarto website.
+Hello! I'm Tracy Teal, Open Source Program Director at Posit Software, PBC (formerly RStudio). I love working with open source communities, developing structures and systems that support people in doing their work, thinking about sustainable maintenance, and creating resources that help people learn about data science and open source, so people can be connected, and don't need to figure out everything on their own. 
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I studied microbiology and bioinformatics, finishing my PhD in 2007 from Caltech. I worked in academia (doing research and teaching) before moving into data science and non-profit work as director of [Data Carpentry] and [The Carpentries], and then director of [Dryad]. I see inclusive leadership as fundamental to reaching the potential of open source and data science where all people can participate, and try to bring this perspective to my work, and what I continue to learn.
 
-```{r}
-1 + 1
-```
+I serve on the boards of [CarbonPlan], [pyOpenSci] and the [R Consortium], all great projects! 
+
+I always recommend [Data Carpentry] and [Software Carpentry] lessons to people looking to learn how to get started working with data and developing software.
+
+There's a few other things I've found helpful along the way, so I've put together information on [how to give a lightning talk], [an introduction to workshop introductions], and an [open source developer relations handbook].
+
+I'm working on curriculum on [how to manage an open source project] and have a few talks on the topic, including from [PyData Seattle 2023]. 
+
+I've written or contributed to talks and articles on data science training, data science and collaboration practices, and career pathways, and [have a selected list of these materials].
+
+I'm also super excited about Quarto, and how easy Quarto makes it to create and publish reproducible and accessible articles, websites, and presentations. I have talks on [a few of my favorite things about Quarto presentations] and [publishing Jupyter notebooks with Quarto]. 
+
+
+
