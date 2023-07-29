@@ -1,12 +1,12 @@
 ---
-title: "Publications"
+title: "Media"
 format:
   html: 
     fontsize: 16px
     linestretch: 1.5
 ---
 
-Publications, reports and articles I've been involved with on data science training, good data science and collaboration practices, and career pathways.
+A few of my favorite talks and articles on data science training, data science and collaboration practices, and career pathways. 
 
 ## Data science practices and collaboration
 

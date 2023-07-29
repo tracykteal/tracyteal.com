@@ -14,8 +14,8 @@ website:
     right:
       - href: about.qmd
         text: Bio
-      - href: publications.qmd
-        text: Publications
+      - href: media.qmd
+        text: Media
       - href: resources.qmd
         text: Resources
       - href: blog.qmd
