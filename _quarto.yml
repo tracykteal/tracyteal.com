@@ -10,6 +10,7 @@ website:
   twitter-card:
     creator: "@tracykteal"
     card-style: summary_large_image
+  favicon: "images/favicon_teal_sq2.png"
   navbar:
     right:
       - icon: house
