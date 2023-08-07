@@ -1,6 +1,6 @@
 ---
 title: ""
-image: images/teal_photo2_website.png
+image: images/teal_website_sm.png
 about:
   template: trestles
   image-shape: round

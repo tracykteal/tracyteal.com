@@ -1,6 +1,6 @@
 ---
 title: "Tracy K. Teal"
-image: images/teal_photo2_website_sm.png
+image: images/teal_website_sm.png
 about:
   template: solana
   image-shape: round

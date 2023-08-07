@@ -10,7 +10,7 @@ website:
   twitter-card:
     creator: "@tracykteal"
     card-style: summary_large_image
-  favicon: "images/favicon_teal_sq2.png"
+  favicon: "images/teal_favicon.png"
   navbar:
     right:
       - icon: house
@@ -21,9 +21,9 @@ website:
       - icon: mastodon
         href: https://mastodon.social/@tracykteal
       - icon: github
-        href: https://github.com
+        href: https://github.com/tracykteal
       - icon: linkedin
-        href: https://linkedin.com
+        href: https://www.linkedin.com/in/tracy-teal-059136b/
 
 format:
   html:
