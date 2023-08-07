@@ -17,7 +17,7 @@ about:
 
 ---
 
-Hello! I'm Tracy Teal, Open Source Program Director at Posit Software, PBC (formerly RStudio). I love working with open source communities, developing structures and systems that support people in doing their work, thinking about sustainable maintenance, and creating resources that help people learn about data science and open source, so people don't need to figure out everything on their own. 
+Hello! I'm Tracy Teal, Open Source Program Director at [Posit Software, PBC](https://posit.co/) (formerly RStudio). I love working with open source communities, developing structures and systems that support people in doing their work, thinking about sustainable maintenance, and creating resources that help people learn about data science and open source, so people don't need to figure out everything on their own. 
 
 I studied microbiology and bioinformatics, finishing my PhD in 2007 from Caltech. I worked in academia (doing research, open source software development, and teaching) before moving into data science and non-profit work as director of [The Carpentries](https://carpentries.org/), and then director of [Dryad](https://datadryad.org/). I see inclusive leadership as fundamental to reaching the potential of open source and data science where all people can participate, and try to bring this perspective to my work and what I continue to learn.
 

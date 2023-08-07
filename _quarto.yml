@@ -16,6 +16,8 @@ website:
       - icon: house
         text: "Tracy Teal"
         href: index.qmd
+      - text: "Resources"
+        href: resources.qmd
       - icon: mastodon
         href: https://mastodon.social/@tracykteal
       - icon: github
