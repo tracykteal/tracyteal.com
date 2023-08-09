@@ -6,7 +6,7 @@ format:
     linestretch: 1.5
 ---
 
-These are a few of my favorite articles and talks on career pathways, data science practices and collaboration, and data science training that I've been involved with.
+These are a few of my favorite articles and talks on career pathways, data science practices and collaboration, and data science training I've been involved with.
 
 * [\[Video\] It's not just code: managing an open source project](https://www.youtube.com/watch?v=CiXhTA6zkjA) PyData Seattle 2023
 * [\[Video\] Inclusive pedagogy to support computational teaching](https://www.youtube.com/watch?v=IYADM3-0QSM) PyCon 2019
