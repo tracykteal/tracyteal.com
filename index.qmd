@@ -7,19 +7,19 @@ about:
   links:
   - icon: mastodon
     text: Mastodon
-    href: https://mastodon.social/@tracykteal
+    href: https://fosstodon.org/@tracykteal
   - icon: github
     text: Github
-    href: https://github.com
+    href: https://github.com/tracykteal/
   - icon: linkedin
     text: LinkedIn
-    href: https://linkedin.com
+    href: https://www.linkedin.com/in/tracy-teal-059136b/
 
 ---
 
-Hello! I'm Tracy Teal, Open Source Program Director at [Posit Software, PBC](https://posit.co/) (formerly named RStudio). I love working with open source communities, developing structures and systems that support people in doing their work, thinking about sustainable maintenance, and creating resources that help people learn about data science and open source, so people don't need to figure out everything on their own. 
+Hello! I'm Tracy Teal, Open Source Program Director at [Posit Software, PBC](https://posit.co/) (formerly named RStudio). I love working with open source communities, developing structures and systems that support people in doing their work, thinking about sustainable maintenance, and creating resources that help people learn about data science and open source. 
 
-I studied microbiology and bioinformatics, finishing my PhD in 2007 from Caltech. I worked in academia (doing research, open source software development, and teaching) before moving into data science and non-profit work as director of [The Carpentries](https://carpentries.org/), and then director of [Dryad](https://datadryad.org/). I see inclusive leadership as fundamental to reaching the potential of open source and data science where all people can participate, and try to bring this perspective to my work and what I continue to learn.
+I worked in academia (doing research, open source software development, and teaching), finishing my PhD in microbiology and bioinformatics from Caltech, before moving into data science and non-profit work as director of [The Carpentries](https://carpentries.org/), and then director of [Dryad](https://datadryad.org/). I see inclusive leadership as fundamental to reaching the potential of open source and data science where all people can participate, and try to bring this perspective to my work and what I continue to learn.
 
 I serve on the boards of [CarbonPlan](https://carbonplan.org/), [pyOpenSci](https://www.pyopensci.org/) and the [R Consortium](https://www.r-consortium.org/), all great projects! 
 

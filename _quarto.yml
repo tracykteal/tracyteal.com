@@ -19,7 +19,7 @@ website:
       - text: "Resources"
         href: resources.qmd
       - icon: mastodon
-        href: https://mastodon.social/@tracykteal
+        href: https://fosstodon.org/@tracykteal
       - icon: github
         href: https://github.com/tracykteal
       - icon: linkedin
