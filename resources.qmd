@@ -6,11 +6,11 @@ format:
     linestretch: 1.5
 ---
 
-These are a few of my favorite articles and talks on career pathways, data science practices and collaboration, and data science training that I've been involved in.
+These are a few of my favorite articles and talks on career pathways, data science practices and collaboration, and data science training that I've been involved with.
 
-* [\[Video\] It's not just code: managing an open source project](https://www.youtube.com/watch?v=CiXhTA6zkjA) (PyData Seattle 2023)
-* [\[Video\] Inclusive pedagogy to support computational teaching](https://www.youtube.com/watch?v=IYADM3-0QSM) (PyCon 2019)
-* [\[Video\] Panel discussion: Growth and Data Science: Individuals, leaders, organizations and responsibilities](https://posit.co/resources/videos/panel-discussion-growth-and-data-science-individuals-leaders-organizations-and-responsibilities/) (rstudio::conf(2019))
+* [\[Video\] It's not just code: managing an open source project](https://www.youtube.com/watch?v=CiXhTA6zkjA) PyData Seattle 2023
+* [\[Video\] Inclusive pedagogy to support computational teaching](https://www.youtube.com/watch?v=IYADM3-0QSM) PyCon 2019
+* [\[Video\] Panel discussion: Growth and Data Science: Individuals, leaders, organizations and responsibilities](https://posit.co/resources/videos/panel-discussion-growth-and-data-science-individuals-leaders-organizations-and-responsibilities/) rstudio::conf(2019)
 
 
 ### Career Pathways

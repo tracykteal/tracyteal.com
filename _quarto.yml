@@ -28,6 +28,7 @@ website:
 format:
   html:
     theme: flatly
+    linkcolor: "#009999"
     css: styles.css
     toc: true
 
