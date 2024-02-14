@@ -6,14 +6,31 @@ format:
     linestretch: 1.5
 ---
 
-These are a few of my favorite articles and talks on career pathways, data science practices and collaboration, and data science training I've been involved with.
-
-* [\[Video\] It's not just code: managing an open source project](https://www.youtube.com/watch?v=CiXhTA6zkjA) PyData Seattle 2023
-* [\[Video\] Inclusive pedagogy to support computational teaching](https://www.youtube.com/watch?v=IYADM3-0QSM) PyCon 2019
-* [\[Video\] Panel discussion: Growth and Data Science: Individuals, leaders, organizations and responsibilities](https://posit.co/resources/videos/panel-discussion-growth-and-data-science-individuals-leaders-organizations-and-responsibilities/) rstudio::conf(2019)
+These are a few of my favorite articles and talks on open source leadership, career pathways, data science practices and collaboration, and data science training I've been involved with.
 
 
-### Career Pathways
+## Open source and data science leadership
+
+* [Managing an open source project workshop](https://tracykteal.github.io/managing-os-project-workshop/). posit::conf(2023).
+
+* [It's not just code: managing an open source project (video)](https://www.youtube.com/watch?v=CiXhTA6zkjA). PyData Seattle 2023.
+
+* [Managing open source projects and ecosystems (podcast)](https://www.womeninanalytics.com/podcast-episodes/ep2). Women in Analytics After Hours podcast Episode 2.
+
+* [Open Source Developer Relations Team Handbook Template](https://github.com/tracykteal/devrel-handbook). This is a work-in-progress, based on work with the tidyverse team. 
+
+* [How to give a lightning talk](https://github.com/tracykteal/lightning-talks). Speaking is a part of leading! And lightning talks are the best talks. :) 
+
+* [Package name balderdash](https://github.com/tracykteal/package-name-balderdash). OK, this isn't a leadership thing, but a fun game to play with a team.
+
+
+## Career Pathways
+
+
+* [Panel discussion: Growth and Data Science: Individuals, leaders, organizations and responsibilities (video)](https://posit.co/resources/videos/panel-discussion-growth-and-data-science-individuals-leaders-organizations-and-responsibilities/). rstudio::conf(2019).
+
+#### Publications
+
 
 |                                                                                                                                                                               |                                                   |
 |-------------------------------------------------|-----------------------|
@@ -22,6 +39,8 @@ These are a few of my favorite articles and talks on career pathways, data scien
 
 
 ## Data science practices and collaboration
+
+#### Publications
 
 |                                                                                                                                                                               |                                                   |
 |-------------------------------------------------|-----------------------|
@@ -34,6 +53,12 @@ These are a few of my favorite articles and talks on career pathways, data scien
 | [Journal of Open Source Software (JOSS): design and first-year review](https://peerj.com/articles/cs-147.pdf),                                                                | AM Smith et al, 2018                              |
 
 ## Data Science Training
+
+* [Inclusive pedagogy to support computational teaching (video)](https://www.youtube.com/watch?v=IYADM3-0QSM). PyCon 2019.
+
+* [An introduction to workshop introductions](https://github.com/tracykteal/instructors-introduction). Some tips and tricks for how to start your workshop.
+
+#### Publications
 
 |                                                                                                                                                                                                                                   |                             |
 |-------------------------------------------------|-----------------------|
