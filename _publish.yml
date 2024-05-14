@@ -1,4 +1,6 @@
 - source: project
   netlify:
     - id: 54c21dd4-e235-400a-9cc7-66c0f3d6a291
-      url: 'https://tracyteal.netlify.app'
+      url: 'https://tkteal.com'
+    - id: 86dfc666-2871-4449-ae10-8f2cbea9c075
+      url: 'https://jolly-beignet-32ef8e.netlify.app'
