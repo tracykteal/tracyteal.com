@@ -11,3 +11,8 @@ To publish:
 * Publish through quarto `quarto publish`
 * Select publishing to netlify: `❯ https://tkteal.com (Netlify - ...)`
 * Site automatically publishes from netlify to tkteal.com
+
+Files:
+* index.qmd - main landing page
+* resources.qmd - list of resources
+* bio.qmd - short and long bios for sharing
