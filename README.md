@@ -10,7 +10,7 @@ To publish:
 * Publish through quarto `quarto publish`
 * Select publishing to netlify: `❯ https://tkteal.com (Netlify - ...)`
 * Site automatically publishes from netlify to tkteal.com
-* * Commit edits to github (this isn't required for publishing, but then keeps published site and files in github in sync)
+* Commit edits to github (this isn't required for publishing, but then keeps published site and files in github in sync)
 
 Files:
 * index.qmd - main landing page
