@@ -1,5 +1,5 @@
 ---
-title: "Tracy K. Teal"
+title: "Tracy K. Teal, PhD"
 image: images/teal_website_sm.png
 about:
   template: solana
