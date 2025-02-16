@@ -6,7 +6,7 @@ execute:
 
 website:
   title: ""
-  site-url: "https://tracyteal.com/"
+  site-url: "https://tkteal.com/"
   twitter-card:
     creator: "@tracykteal"
     card-style: summary_large_image
@@ -18,8 +18,10 @@ website:
         href: index.qmd
       - text: "Resources"
         href: resources.qmd
-      - icon: mastodon
-        href: https://fosstodon.org/@tracykteal
+      - text: Newsletter
+        href: https://buttondown.com/tkteal/archive
+      - text: "{{< iconify fa6-brands:bluesky title='Bluesky'>}}"
+        href: https://bsky.app/profile/tracykteal.bsky.social
       - icon: github
         href: https://github.com/tracykteal
       - icon: linkedin

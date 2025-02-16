@@ -5,9 +5,9 @@ about:
   template: solana
   image-shape: round
   links:
-  - icon: mastodon
-    text: Mastodon
-    href: https://fosstodon.org/@tracykteal
+  - icon: bluesky
+    text: Bluesky
+    href: https://bsky.app/profile/tracykteal.bsky.social
   - icon: github
     text: Github
     href: https://github.com/tracykteal/
@@ -19,7 +19,7 @@ about:
 
 Hello! I'm Tracy Teal. I love working with open source communities, developing structures and systems that support people in doing their work, thinking about sustainable maintenance, and creating resources that help people learn about data science and open source. 
 
-I'm currently the Open Source Program Director at [Nixtla](https://www.nixtla.io/). Previously I was the Open Source Program Director at [Posit](https://posit.co/) (formerly named RStudio), and prior to that I worked in academia (doing research, open source software development, and teaching), finishing my PhD in microbiology and bioinformatics from Caltech, before moving into data science and non-profit work as Executive Director of [The Carpentries](https://carpentries.org/), and then Executive Director of [Dryad](https://datadryad.org/). I see inclusive leadership as fundamental to reaching the potential of open source and data science where all people can participate, and try to bring this perspective to my work and what I continue to learn.
+I've been the the Open Source Program Director at [Nixtla](https://www.nixtla.io/) and [Posit](https://posit.co/) (formerly named RStudio), and prior to that I worked in academia (doing research, open source software development, and teaching), finishing my PhD in microbiology and bioinformatics from Caltech, before moving into data science and non-profit work as Executive Director of [The Carpentries](https://carpentries.org/), and then Executive Director of [Dryad](https://datadryad.org/). I see inclusive leadership as fundamental to reaching the potential of open source and data science where all people can participate, and try to bring this perspective to my work and what I continue to learn.
 
 I serve on the boards of [pyOpenSci](https://www.pyopensci.org/) and [CarbonPlan](https://carbonplan.org/), and various other advisory committees. All great projects!
 
