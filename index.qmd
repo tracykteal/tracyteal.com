@@ -17,9 +17,9 @@ about:
 
 ---
 
-Hello! I'm Tracy Teal. I love working with open source communities, developing structures and systems that support people in doing their work, thinking about sustainable maintenance, and creating resources that help people learn about data science and open source. 
+Hello! I'm Tracy Teal. I love working with open science and open source organizations, developing structures and systems that support people in doing their work, thinking about sustainable maintenance, and creating resources that help people learn about data science and open source. 
 
-I've been the the Open Source Program Director at [Nixtla](https://www.nixtla.io/) and [Posit](https://posit.co/) (formerly named RStudio), and prior to that I worked in academia (doing research, open source software development, and teaching), finishing my PhD in microbiology and bioinformatics from Caltech, before moving into data science and non-profit work as Executive Director of [The Carpentries](https://carpentries.org/), and then Executive Director of [Dryad](https://datadryad.org/). I see inclusive leadership as fundamental to reaching the potential of open source and data science where all people can participate, and try to bring this perspective to my work and what I continue to learn.
+I'm currently the Interim COO at [openRxiv](https://openrxiv.org/). I've been the the Open Source Program Director at [Nixtla](https://www.nixtla.io/) and [Posit](https://posit.co/) (formerly named RStudio), and prior to that I worked in academia (doing research, open source software development, and teaching), finishing my PhD in microbiology and bioinformatics from Caltech, before moving into data science and non-profit work as Executive Director of [The Carpentries](https://carpentries.org/), and then Executive Director of [Dryad](https://datadryad.org/). I see inclusive leadership as fundamental to reaching the potential of open source and data science where all people can participate, and try to bring this perspective to my work and what I continue to learn.
 
 I serve on the boards of [pyOpenSci](https://www.pyopensci.org/) and [CarbonPlan](https://carbonplan.org/), and various other advisory committees. All great projects!
 
@@ -30,7 +30,7 @@ I'm working on curriculum on [how to manage an open source project](https://trac
 
 I've written or contributed to talks and articles on data science training, data science and collaboration practices, and career pathways, and [have a selected list of these materials](/resources.html).
 
-I'm also super excited about Quarto, and how easy Quarto makes it to create and publish reproducible and accessible articles, websites, and presentations. I have talks on [a few of my favorite things about Quarto presentations (video)](https://www.youtube.com/watch?v=ttLnLdU1-CQ) and [publishing Jupyter notebooks with Quarto (video)](https://www.youtube.com/watch?v=7nkUcwBgoME).
+I'm also super excited about new tools that make it possible for us to share about science in different ways. I've worked most with Quarto so far and have talks on [a few of my favorite things about Quarto presentations (video)](https://www.youtube.com/watch?v=ttLnLdU1-CQ) and [publishing Jupyter notebooks with Quarto (video)](https://www.youtube.com/watch?v=7nkUcwBgoME).
 
 
 
