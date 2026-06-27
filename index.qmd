@@ -21,7 +21,7 @@ Hello! I'm Tracy Teal. I love working with open science and open source organiza
 
 I'm currently the CEO at [openRxiv](https://openrxiv.org/). I've been the the Open Source Program Director at [Nixtla](https://www.nixtla.io/) and [Posit](https://posit.co/) (formerly named RStudio), and prior to that I worked in academia (doing research, open source software development, and teaching), finishing my PhD in microbiology and bioinformatics from Caltech, before moving into data science and non-profit work as Executive Director of [The Carpentries](https://carpentries.org/), and then Executive Director of [Dryad](https://datadryad.org/). I see inclusive leadership as fundamental to reaching the potential of open source and data science where all people can participate, and try to bring this perspective to my work and what I continue to learn.
 
-I serve on the boards of [pyOpenSci](https://www.pyopensci.org/) and [CarbonPlan](https://carbonplan.org/), and various other advisory committees. All great projects!
+I serve on the board of [CarbonPlan](https://carbonplan.org/), and various other advisory committees. All great projects!
 
 
 There's a few things I've found helpful along the way, so I've put together information on [how to give a lightning talk](https://github.com/tracykteal/lightning-talks), [an introduction to workshop introductions](https://github.com/tracykteal/instructors-introduction), and ideas for an [open source developer relations handbook](https://github.com/tracykteal/devrel-handbook).
